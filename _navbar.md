@@ -1,6 +1,6 @@
 * 入门
-    * [快速开始](zh-cn/home.md)
+    * [快速开始](zh-cn/11/getting-started/installation)
 
 * 语言
     * [:us:]()
-    * [:cn:](/zh-cn/home.md)
+    * [:cn:](/zh-cn/11/getting-started/installation)
