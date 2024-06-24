@@ -1,2 +1,2 @@
-* [首页](guide)
-* [指南](zh-cn/guide)
+* [首页](home.md)
+* [指南](home.md)
